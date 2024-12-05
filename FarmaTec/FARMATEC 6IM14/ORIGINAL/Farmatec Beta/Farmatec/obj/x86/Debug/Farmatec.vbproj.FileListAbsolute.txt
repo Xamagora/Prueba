@@ -1,0 +1,260 @@
+C:\Users\Gabriel Quiroz\AppData\Local\Temporary Projects\Farmatec\bin\Debug\Farmatec.exe
+C:\Users\Gabriel Quiroz\AppData\Local\Temporary Projects\Farmatec\bin\Debug\Farmatec.pdb
+C:\Users\Gabriel Quiroz\AppData\Local\Temporary Projects\Farmatec\bin\Debug\Farmatec.xml
+C:\Users\Gabriel Quiroz\AppData\Local\Temporary Projects\Farmatec\obj\x86\Debug\Farmatec.Inicio.resources
+C:\Users\Gabriel Quiroz\AppData\Local\Temporary Projects\Farmatec\obj\x86\Debug\Farmatec.Resources.resources
+C:\Users\Gabriel Quiroz\AppData\Local\Temporary Projects\Farmatec\obj\x86\Debug\Farmatec.vbproj.GenerateResource.Cache
+C:\Users\Gabriel Quiroz\AppData\Local\Temporary Projects\Farmatec\obj\x86\Debug\Farmatec.exe
+C:\Users\Gabriel Quiroz\AppData\Local\Temporary Projects\Farmatec\obj\x86\Debug\Farmatec.xml
+C:\Users\Gabriel Quiroz\AppData\Local\Temporary Projects\Farmatec\obj\x86\Debug\Farmatec.pdb
+C:\Users\Gabriel Quiroz\Documents\Visual Studio 2010\Projects\Farmatec\Farmatec\obj\x86\Debug\Farmatec.exe
+C:\Users\Gabriel Quiroz\Documents\Visual Studio 2010\Projects\Farmatec\Farmatec\obj\x86\Debug\Farmatec.xml
+C:\Users\Gabriel Quiroz\Documents\Visual Studio 2010\Projects\Farmatec\Farmatec\obj\x86\Debug\Farmatec.pdb
+C:\Users\Gabriel Quiroz\Documents\Visual Studio 2010\Projects\Farmatec\Farmatec\obj\x86\Debug\Farmatec.Inicio.resources
+C:\Users\Gabriel Quiroz\Documents\Visual Studio 2010\Projects\Farmatec\Farmatec\obj\x86\Debug\Farmatec.Resources.resources
+C:\Users\Gabriel Quiroz\Documents\Visual Studio 2010\Projects\Farmatec\Farmatec\obj\x86\Debug\Farmatec.vbproj.GenerateResource.Cache
+C:\Users\Gabriel Quiroz\Documents\Visual Studio 2010\Projects\Farmatec\Farmatec\bin\Debug\Farmatec.exe
+C:\Users\Gabriel Quiroz\Documents\Visual Studio 2010\Projects\Farmatec\Farmatec\bin\Debug\Farmatec.pdb
+C:\Users\Gabriel Quiroz\Documents\Visual Studio 2010\Projects\Farmatec\Farmatec\bin\Debug\Farmatec.xml
+C:\Users\Gabriel Quiroz\Documents\Visual Studio 2010\Projects\Farmatec\Farmatec\obj\x86\Debug\Farmatec.LoginFarmatec.resources
+C:\Users\Gabriel Quiroz\Documents\Visual Studio 2010\Projects\Farmatec\Farmatec\obj\x86\Debug\Farmatec.MenuCliente.resources
+C:\Users\Gabriel Quiroz\Documents\Visual Studio 2010\Projects\Farmatec\Farmatec\obj\x86\Debug\Farmatec.MenuAdministrador.resources
+C:\Users\Gabriel Quiroz\Documents\Visual Studio 2010\Projects\Farmatec\Farmatec\obj\x86\Debug\Farmatec.ActualizarProducto.resources
+C:\Users\Gabriel Quiroz\Documents\Visual Studio 2010\Projects\Farmatec\Farmatec\obj\x86\Debug\Farmatec.BuscarMarca.resources
+C:\Users\Gabriel Quiroz\Documents\Visual Studio 2010\Projects\Farmatec\Farmatec\obj\x86\Debug\Farmatec.BuscarProducto.resources
+C:\Users\Gabriel Quiroz\Documents\Visual Studio 2010\Projects\Farmatec\Farmatec\obj\x86\Debug\Farmatec.ActualizarMarca.resources
+C:\Users\Gabriel Quiroz\Documents\Visual Studio 2010\Projects\Farmatec\Farmatec\obj\x86\Debug\Farmatec.BuscarCadena.resources
+C:\Users\Gabriel Quiroz\Documents\Visual Studio 2010\Projects\Farmatec\Farmatec\obj\x86\Debug\Farmatec.VisualizarProducto.resources
+C:\Users\Gabriel Quiroz\Documents\Visual Studio 2010\Projects\Farmatec\Farmatec\obj\x86\Debug\Farmatec.VisualizarCadena.resources
+C:\Users\Gabriel Quiroz\Documents\Visual Studio 2010\Projects\Farmatec\Farmatec\obj\x86\Debug\Farmatec.BuscarPedido.resources
+C:\Users\Gabriel Quiroz\Documents\Visual Studio 2010\Projects\Farmatec\Farmatec\obj\x86\Debug\Farmatec.ActualizarEmpleado.resources
+C:\Users\Gabriel Quiroz\Documents\Visual Studio 2010\Projects\Farmatec\Farmatec\obj\x86\Debug\Farmatec.BuscarEmpleado.resources
+C:\Users\Gabriel Quiroz\Documents\Visual Studio 2010\Projects\Farmatec\Farmatec\obj\x86\Debug\Farmatec.ActualizarCliente.resources
+C:\Users\Gabriel Quiroz\Documents\Visual Studio 2010\Projects\Farmatec\Farmatec\obj\x86\Debug\Farmatec.BuscarCliente.resources
+C:\Users\Gabriel Quiroz\Documents\Visual Studio 2010\Projects\Farmatec\Farmatec\obj\x86\Debug\Farmatec.CadenaActualizar.resources
+C:\Users\Gabriel Quiroz\Documents\Visual Studio 2010\Projects\Farmatec\Farmatec\obj\x86\Debug\Farmatec.ActualizarPedido.resources
+C:\Users\Gabriel Quiroz\Documents\Visual Studio 2010\Projects\Farmatec\Farmatec\obj\x86\Debug\Farmatec.VistaPorCliente.resources
+C:\Users\Gabriel Quiroz\Documents\Visual Studio 2010\Projects\Farmatec\Farmatec\obj\x86\Debug\Farmatec.VisualizarOfertas.resources
+C:\Users\Gabriel Quiroz\Documents\Visual Studio 2010\Projects\Farmatec\Farmatec\obj\x86\Debug\Farmatec.VisualizarFarmacias.resources
+C:\Users\Gabriel Quiroz\Documents\Visual Studio 2010\Projects\Farmatec\Farmatec\bin\Debug\Farmatec.accdb
+C:\Users\Gabriel Quiroz\Documents\Visual Studio 2010\Projects\Farmatec\Farmatec\obj\x86\Debug\Farmatec.VistaMarca.resources
+C:\Users\Gabriel Quiroz\Documents\Visual Studio 2010\Projects\Farmatec\Farmatec\obj\x86\Debug\Farmatec.Ofertas.resources
+C:\Users\Gabriel Quiroz\Documents\Visual Studio 2010\Projects\Farmatec\Farmatec\obj\x86\Debug\Farmatec.Comprar.resources
+C:\Users\Gabriel Quiroz\Documents\Visual Studio 2010\Projects\Farmatec\Farmatec\obj\x86\Debug\Farmatec.Productos.resources
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\Farmatec\obj\x86\Debug\Farmatec.exe
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\Farmatec\obj\x86\Debug\Farmatec.xml
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\Farmatec\obj\x86\Debug\Farmatec.pdb
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\Farmatec\bin\Debug\Farmatec.accdb
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\Farmatec\bin\Debug\Farmatec.exe
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\Farmatec\bin\Debug\Farmatec.pdb
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\Farmatec\bin\Debug\Farmatec.xml
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\Farmatec\obj\x86\Debug\Farmatec.BuscarCadena.resources
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\Farmatec\obj\x86\Debug\Farmatec.VistaPorCliente.resources
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\Farmatec\obj\x86\Debug\Farmatec.VisualizarProducto.resources
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\Farmatec\obj\x86\Debug\Farmatec.VisualizarCadena.resources
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\Farmatec\obj\x86\Debug\Farmatec.BuscarPedido.resources
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\Farmatec\obj\x86\Debug\Farmatec.BuscarMarca.resources
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\Farmatec\obj\x86\Debug\Farmatec.ActualizarProducto.resources
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\Farmatec\obj\x86\Debug\Farmatec.BuscarProducto.resources
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\Farmatec\obj\x86\Debug\Farmatec.ActualizarMarca.resources
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\Farmatec\obj\x86\Debug\Farmatec.ActualizarEmpleado.resources
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\Farmatec\obj\x86\Debug\Farmatec.BuscarEmpleado.resources
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\Farmatec\obj\x86\Debug\Farmatec.ActualizarCliente.resources
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\Farmatec\obj\x86\Debug\Farmatec.BuscarCliente.resources
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\Farmatec\obj\x86\Debug\Farmatec.CadenaActualizar.resources
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\Farmatec\obj\x86\Debug\Farmatec.ActualizarPedido.resources
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\Farmatec\obj\x86\Debug\Farmatec.VistaMarca.resources
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\Farmatec\obj\x86\Debug\Farmatec.VisualizarOfertas.resources
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\Farmatec\obj\x86\Debug\Farmatec.Comprar.resources
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\Farmatec\obj\x86\Debug\Farmatec.Productos.resources
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\Farmatec\obj\x86\Debug\Farmatec.Inicio.resources
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\Farmatec\obj\x86\Debug\Farmatec.LoginFarmatec.resources
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\Farmatec\obj\x86\Debug\Farmatec.MenuCliente.resources
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\Farmatec\obj\x86\Debug\Farmatec.MenuAdministrador.resources
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\Farmatec\obj\x86\Debug\Farmatec.Resources.resources
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\Farmatec\obj\x86\Debug\Farmatec.VisualizarFarmacias.resources
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\Farmatec\obj\x86\Debug\Farmatec.Ofertas.resources
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\Farmatec\obj\x86\Debug\Farmatec.vbproj.GenerateResource.Cache
+J:\Archivos\Farmatec\Farmatec\obj\x86\Debug\Farmatec.exe
+J:\Archivos\Farmatec\Farmatec\obj\x86\Debug\Farmatec.xml
+J:\Archivos\Farmatec\Farmatec\obj\x86\Debug\Farmatec.pdb
+J:\Archivos\Farmatec\Farmatec\bin\Debug\Farmatec.accdb
+J:\Archivos\Farmatec\Farmatec\bin\Debug\Farmatec.exe
+J:\Archivos\Farmatec\Farmatec\bin\Debug\Farmatec.pdb
+J:\Archivos\Farmatec\Farmatec\bin\Debug\Farmatec.xml
+J:\Archivos\Farmatec\Farmatec\obj\x86\Debug\Farmatec.BuscarCadena.resources
+J:\Archivos\Farmatec\Farmatec\obj\x86\Debug\Farmatec.VistaPorCliente.resources
+J:\Archivos\Farmatec\Farmatec\obj\x86\Debug\Farmatec.VisualizarProducto.resources
+J:\Archivos\Farmatec\Farmatec\obj\x86\Debug\Farmatec.VisualizarCadena.resources
+J:\Archivos\Farmatec\Farmatec\obj\x86\Debug\Farmatec.BuscarPedido.resources
+J:\Archivos\Farmatec\Farmatec\obj\x86\Debug\Farmatec.BuscarMarca.resources
+J:\Archivos\Farmatec\Farmatec\obj\x86\Debug\Farmatec.ActualizarProducto.resources
+J:\Archivos\Farmatec\Farmatec\obj\x86\Debug\Farmatec.BuscarProducto.resources
+J:\Archivos\Farmatec\Farmatec\obj\x86\Debug\Farmatec.ActualizarMarca.resources
+J:\Archivos\Farmatec\Farmatec\obj\x86\Debug\Farmatec.ActualizarEmpleado.resources
+J:\Archivos\Farmatec\Farmatec\obj\x86\Debug\Farmatec.BuscarEmpleado.resources
+J:\Archivos\Farmatec\Farmatec\obj\x86\Debug\Farmatec.ActualizarCliente.resources
+J:\Archivos\Farmatec\Farmatec\obj\x86\Debug\Farmatec.BuscarCliente.resources
+J:\Archivos\Farmatec\Farmatec\obj\x86\Debug\Farmatec.CadenaActualizar.resources
+J:\Archivos\Farmatec\Farmatec\obj\x86\Debug\Farmatec.ActualizarPedido.resources
+J:\Archivos\Farmatec\Farmatec\obj\x86\Debug\Farmatec.VistaMarca.resources
+J:\Archivos\Farmatec\Farmatec\obj\x86\Debug\Farmatec.VisualizarOfertas.resources
+J:\Archivos\Farmatec\Farmatec\obj\x86\Debug\Farmatec.Comprar.resources
+J:\Archivos\Farmatec\Farmatec\obj\x86\Debug\Farmatec.Productos.resources
+J:\Archivos\Farmatec\Farmatec\obj\x86\Debug\Farmatec.Inicio.resources
+J:\Archivos\Farmatec\Farmatec\obj\x86\Debug\Farmatec.LoginFarmatec.resources
+J:\Archivos\Farmatec\Farmatec\obj\x86\Debug\Farmatec.MenuCliente.resources
+J:\Archivos\Farmatec\Farmatec\obj\x86\Debug\Farmatec.MenuAdministrador.resources
+J:\Archivos\Farmatec\Farmatec\obj\x86\Debug\Farmatec.Resources.resources
+J:\Archivos\Farmatec\Farmatec\obj\x86\Debug\Farmatec.VisualizarFarmacias.resources
+J:\Archivos\Farmatec\Farmatec\obj\x86\Debug\Farmatec.Ofertas.resources
+J:\Archivos\Farmatec\Farmatec\obj\x86\Debug\Farmatec.vbproj.GenerateResource.Cache
+D:\Archivos\Farmatec\Farmatec\obj\x86\Debug\Farmatec.exe
+D:\Archivos\Farmatec\Farmatec\obj\x86\Debug\Farmatec.xml
+D:\Archivos\Farmatec\Farmatec\obj\x86\Debug\Farmatec.pdb
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\obj\x86\Debug\Farmatec.xml
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\obj\x86\Debug\Farmatec.pdb
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\bin\Debug\Farmatec.accdb
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\bin\Debug\Farmatec.exe
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\bin\Debug\Farmatec.pdb
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\bin\Debug\Farmatec.xml
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\obj\x86\Debug\Farmatec.BuscarCadena.resources
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\obj\x86\Debug\Farmatec.VistaPorCliente.resources
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\obj\x86\Debug\Farmatec.VisualizarProducto.resources
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\obj\x86\Debug\Farmatec.VisualizarCadena.resources
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\obj\x86\Debug\Farmatec.BuscarPedido.resources
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\obj\x86\Debug\Farmatec.BuscarMarca.resources
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\obj\x86\Debug\Farmatec.ActualizarProducto.resources
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\obj\x86\Debug\Farmatec.BuscarProducto.resources
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\obj\x86\Debug\Farmatec.ActualizarMarca.resources
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\obj\x86\Debug\Farmatec.ActualizarEmpleado.resources
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\obj\x86\Debug\Farmatec.BuscarEmpleado.resources
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\obj\x86\Debug\Farmatec.ActualizarCliente.resources
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\obj\x86\Debug\Farmatec.BuscarCliente.resources
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\obj\x86\Debug\Farmatec.CadenaActualizar.resources
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\obj\x86\Debug\Farmatec.ActualizarPedido.resources
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\obj\x86\Debug\Farmatec.VistaMarca.resources
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\obj\x86\Debug\Farmatec.VisualizarOfertas.resources
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\obj\x86\Debug\Farmatec.Comprar.resources
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\obj\x86\Debug\Farmatec.Productos.resources
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\obj\x86\Debug\Farmatec.Inicio.resources
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\obj\x86\Debug\Farmatec.LoginFarmatec.resources
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\obj\x86\Debug\Farmatec.MenuCliente.resources
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\obj\x86\Debug\Farmatec.MenuAdministrador.resources
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\obj\x86\Debug\Farmatec.Resources.resources
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\obj\x86\Debug\Farmatec.VisualizarFarmacias.resources
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\obj\x86\Debug\Farmatec.Ofertas.resources
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\obj\x86\Debug\Farmatec.vbproj.GenerateResource.Cache
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\obj\x86\Debug\Farmatec.exe
+C:\Users\Alumno\Desktop\Farmatec\Farmatec\obj\x86\Debug\Farmatec.Concultaconcriteriosproductos.resources
+C:\Users\Gabriel Quiroz\Desktop\Farmatec123\Farmatec\obj\x86\Debug\Farmatec.xml
+C:\Users\Gabriel Quiroz\Desktop\Farmatec123\Farmatec\obj\x86\Debug\Farmatec.pdb
+C:\Users\Gabriel Quiroz\Desktop\Farmatec123\Farmatec\bin\Debug\Farmatec.accdb
+C:\Users\Gabriel Quiroz\Desktop\Farmatec123\Farmatec\bin\Debug\Farmatec.exe
+C:\Users\Gabriel Quiroz\Desktop\Farmatec123\Farmatec\bin\Debug\Farmatec.pdb
+C:\Users\Gabriel Quiroz\Desktop\Farmatec123\Farmatec\bin\Debug\Farmatec.xml
+C:\Users\Gabriel Quiroz\Desktop\Farmatec123\Farmatec\obj\x86\Debug\Farmatec.BuscarCadena.resources
+C:\Users\Gabriel Quiroz\Desktop\Farmatec123\Farmatec\obj\x86\Debug\Farmatec.VistaPorCliente.resources
+C:\Users\Gabriel Quiroz\Desktop\Farmatec123\Farmatec\obj\x86\Debug\Farmatec.VisualizarProducto.resources
+C:\Users\Gabriel Quiroz\Desktop\Farmatec123\Farmatec\obj\x86\Debug\Farmatec.VisualizarCadena.resources
+C:\Users\Gabriel Quiroz\Desktop\Farmatec123\Farmatec\obj\x86\Debug\Farmatec.BuscarPedido.resources
+C:\Users\Gabriel Quiroz\Desktop\Farmatec123\Farmatec\obj\x86\Debug\Farmatec.BuscarMarca.resources
+C:\Users\Gabriel Quiroz\Desktop\Farmatec123\Farmatec\obj\x86\Debug\Farmatec.ActualizarProducto.resources
+C:\Users\Gabriel Quiroz\Desktop\Farmatec123\Farmatec\obj\x86\Debug\Farmatec.BuscarProducto.resources
+C:\Users\Gabriel Quiroz\Desktop\Farmatec123\Farmatec\obj\x86\Debug\Farmatec.ActualizarMarca.resources
+C:\Users\Gabriel Quiroz\Desktop\Farmatec123\Farmatec\obj\x86\Debug\Farmatec.ActualizarEmpleado.resources
+C:\Users\Gabriel Quiroz\Desktop\Farmatec123\Farmatec\obj\x86\Debug\Farmatec.BuscarEmpleado.resources
+C:\Users\Gabriel Quiroz\Desktop\Farmatec123\Farmatec\obj\x86\Debug\Farmatec.ActualizarCliente.resources
+C:\Users\Gabriel Quiroz\Desktop\Farmatec123\Farmatec\obj\x86\Debug\Farmatec.BuscarCliente.resources
+C:\Users\Gabriel Quiroz\Desktop\Farmatec123\Farmatec\obj\x86\Debug\Farmatec.CadenaActualizar.resources
+C:\Users\Gabriel Quiroz\Desktop\Farmatec123\Farmatec\obj\x86\Debug\Farmatec.ActualizarPedido.resources
+C:\Users\Gabriel Quiroz\Desktop\Farmatec123\Farmatec\obj\x86\Debug\Farmatec.VistaMarca.resources
+C:\Users\Gabriel Quiroz\Desktop\Farmatec123\Farmatec\obj\x86\Debug\Farmatec.VisualizarOfertas.resources
+C:\Users\Gabriel Quiroz\Desktop\Farmatec123\Farmatec\obj\x86\Debug\Farmatec.Comprar.resources
+C:\Users\Gabriel Quiroz\Desktop\Farmatec123\Farmatec\obj\x86\Debug\Farmatec.Productos.resources
+C:\Users\Gabriel Quiroz\Desktop\Farmatec123\Farmatec\obj\x86\Debug\Farmatec.Inicio.resources
+C:\Users\Gabriel Quiroz\Desktop\Farmatec123\Farmatec\obj\x86\Debug\Farmatec.LoginFarmatec.resources
+C:\Users\Gabriel Quiroz\Desktop\Farmatec123\Farmatec\obj\x86\Debug\Farmatec.MenuCliente.resources
+C:\Users\Gabriel Quiroz\Desktop\Farmatec123\Farmatec\obj\x86\Debug\Farmatec.MenuAdministrador.resources
+C:\Users\Gabriel Quiroz\Desktop\Farmatec123\Farmatec\obj\x86\Debug\Farmatec.Resources.resources
+C:\Users\Gabriel Quiroz\Desktop\Farmatec123\Farmatec\obj\x86\Debug\Farmatec.VisualizarFarmacias.resources
+C:\Users\Gabriel Quiroz\Desktop\Farmatec123\Farmatec\obj\x86\Debug\Farmatec.Ofertas.resources
+C:\Users\Gabriel Quiroz\Desktop\Farmatec123\Farmatec\obj\x86\Debug\Farmatec.vbproj.GenerateResource.Cache
+C:\Users\Gabriel Quiroz\Desktop\Farmatec123\Farmatec\obj\x86\Debug\Farmatec.exe
+C:\Users\Alumno\Desktop\Farmatec Beta\Farmatec\obj\x86\Debug\Farmatec.exe
+C:\Users\Alumno\Desktop\Farmatec Beta\Farmatec\obj\x86\Debug\Farmatec.xml
+C:\Users\Alumno\Desktop\Farmatec Beta\Farmatec\obj\x86\Debug\Farmatec.pdb
+C:\Users\Alumno\Desktop\Farmatec Beta\Farmatec\obj\x86\Debug\Farmatec.BuscarCadena.resources
+C:\Users\Alumno\Desktop\Farmatec Beta\Farmatec\obj\x86\Debug\Farmatec.VistaPorCliente.resources
+C:\Users\Alumno\Desktop\Farmatec Beta\Farmatec\obj\x86\Debug\Farmatec.VisualizarProducto.resources
+C:\Users\Alumno\Desktop\Farmatec Beta\Farmatec\obj\x86\Debug\Farmatec.VisualizarCadena.resources
+C:\Users\Alumno\Desktop\Farmatec Beta\Farmatec\obj\x86\Debug\Farmatec.BuscarPedido.resources
+C:\Users\Alumno\Desktop\Farmatec Beta\Farmatec\obj\x86\Debug\Farmatec.BuscarMarca.resources
+C:\Users\Alumno\Desktop\Farmatec Beta\Farmatec\obj\x86\Debug\Farmatec.ActualizarProducto.resources
+C:\Users\Alumno\Desktop\Farmatec Beta\Farmatec\obj\x86\Debug\Farmatec.BuscarProducto.resources
+C:\Users\Alumno\Desktop\Farmatec Beta\Farmatec\obj\x86\Debug\Farmatec.ActualizarMarca.resources
+C:\Users\Alumno\Desktop\Farmatec Beta\Farmatec\obj\x86\Debug\Farmatec.ActualizarEmpleado.resources
+C:\Users\Alumno\Desktop\Farmatec Beta\Farmatec\obj\x86\Debug\Farmatec.BuscarEmpleado.resources
+C:\Users\Alumno\Desktop\Farmatec Beta\Farmatec\obj\x86\Debug\Farmatec.ActualizarCliente.resources
+C:\Users\Alumno\Desktop\Farmatec Beta\Farmatec\obj\x86\Debug\Farmatec.BuscarCliente.resources
+C:\Users\Alumno\Desktop\Farmatec Beta\Farmatec\obj\x86\Debug\Farmatec.CadenaActualizar.resources
+C:\Users\Alumno\Desktop\Farmatec Beta\Farmatec\obj\x86\Debug\Farmatec.ActualizarPedido.resources
+C:\Users\Alumno\Desktop\Farmatec Beta\Farmatec\obj\x86\Debug\Farmatec.VistaMarca.resources
+C:\Users\Alumno\Desktop\Farmatec Beta\Farmatec\obj\x86\Debug\Farmatec.VisualizarOfertas.resources
+C:\Users\Alumno\Desktop\Farmatec Beta\Farmatec\obj\x86\Debug\Farmatec.Comprar.resources
+C:\Users\Alumno\Desktop\Farmatec Beta\Farmatec\obj\x86\Debug\Farmatec.Inicio.resources
+C:\Users\Alumno\Desktop\Farmatec Beta\Farmatec\obj\x86\Debug\Farmatec.LoginFarmatec.resources
+C:\Users\Alumno\Desktop\Farmatec Beta\Farmatec\obj\x86\Debug\Farmatec.MenuCliente.resources
+C:\Users\Alumno\Desktop\Farmatec Beta\Farmatec\obj\x86\Debug\Farmatec.MenuAdministrador.resources
+C:\Users\Alumno\Desktop\Farmatec Beta\Farmatec\obj\x86\Debug\Farmatec.Resources.resources
+C:\Users\Alumno\Desktop\Farmatec Beta\Farmatec\obj\x86\Debug\Farmatec.VisualizarFarmacias.resources
+C:\Users\Alumno\Desktop\Farmatec Beta\Farmatec\obj\x86\Debug\Farmatec.Ofertas.resources
+C:\Users\Alumno\Desktop\Farmatec Beta\Farmatec\obj\x86\Debug\Farmatec.vbproj.GenerateResource.Cache
+C:\Users\Alumno\Desktop\Farmatec Beta\Farmatec\obj\x86\Debug\RdlCompile.cache
+C:\Users\Alumno\Desktop\Farmatec Beta\Farmatec\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Alumno\Desktop\Farmatec Beta\Farmatec\obj\x86\Debug\Farmatec.vbprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\Farmatec Beta\Farmatec\bin\Debug\Farmatec.accdb
+C:\Users\Alumno\Desktop\Farmatec Beta\Farmatec\bin\Debug\Farmatec.exe
+C:\Users\Alumno\Desktop\Farmatec Beta\Farmatec\bin\Debug\Farmatec.pdb
+C:\Users\Alumno\Desktop\Farmatec Beta\Farmatec\bin\Debug\Farmatec.xml
+C:\Users\Alumno\Desktop\Farmatec Beta\Farmatec\obj\x86\Debug\Farmatec.InformeProducto.resources
+J:\Archivos\FARMATEC 6IM14\ORIGINAL\Farmatec Beta\Farmatec\obj\x86\Debug\Farmatec.exe
+J:\Archivos\FARMATEC 6IM14\ORIGINAL\Farmatec Beta\Farmatec\obj\x86\Debug\Farmatec.xml
+J:\Archivos\FARMATEC 6IM14\ORIGINAL\Farmatec Beta\Farmatec\obj\x86\Debug\Farmatec.pdb
+E:\FARMATEC 6IM14\ORIGINAL\Farmatec Beta\Farmatec\obj\x86\Debug\Farmatec.exe
+E:\FARMATEC 6IM14\ORIGINAL\Farmatec Beta\Farmatec\obj\x86\Debug\Farmatec.xml
+E:\FARMATEC 6IM14\ORIGINAL\Farmatec Beta\Farmatec\obj\x86\Debug\Farmatec.pdb
+E:\FARMATEC 6IM14\ORIGINAL\Farmatec Beta\Farmatec\bin\Debug\Farmatec.accdb
+E:\FARMATEC 6IM14\ORIGINAL\Farmatec Beta\Farmatec\bin\Debug\Farmatec.exe
+E:\FARMATEC 6IM14\ORIGINAL\Farmatec Beta\Farmatec\bin\Debug\Farmatec.pdb
+E:\FARMATEC 6IM14\ORIGINAL\Farmatec Beta\Farmatec\bin\Debug\Farmatec.xml
+E:\FARMATEC 6IM14\ORIGINAL\Farmatec Beta\Farmatec\obj\x86\Debug\Farmatec.vbprojResolveAssemblyReference.cache
+E:\FARMATEC 6IM14\ORIGINAL\Farmatec Beta\Farmatec\obj\x86\Debug\Farmatec.InformeProducto.resources
+E:\FARMATEC 6IM14\ORIGINAL\Farmatec Beta\Farmatec\obj\x86\Debug\Farmatec.BuscarCadena.resources
+E:\FARMATEC 6IM14\ORIGINAL\Farmatec Beta\Farmatec\obj\x86\Debug\Farmatec.VistaPorCliente.resources
+E:\FARMATEC 6IM14\ORIGINAL\Farmatec Beta\Farmatec\obj\x86\Debug\Farmatec.VisualizarProducto.resources
+E:\FARMATEC 6IM14\ORIGINAL\Farmatec Beta\Farmatec\obj\x86\Debug\Farmatec.VisualizarCadena.resources
+E:\FARMATEC 6IM14\ORIGINAL\Farmatec Beta\Farmatec\obj\x86\Debug\Farmatec.BuscarPedido.resources
+E:\FARMATEC 6IM14\ORIGINAL\Farmatec Beta\Farmatec\obj\x86\Debug\Farmatec.BuscarMarca.resources
+E:\FARMATEC 6IM14\ORIGINAL\Farmatec Beta\Farmatec\obj\x86\Debug\Farmatec.ActualizarProducto.resources
+E:\FARMATEC 6IM14\ORIGINAL\Farmatec Beta\Farmatec\obj\x86\Debug\Farmatec.BuscarProducto.resources
+E:\FARMATEC 6IM14\ORIGINAL\Farmatec Beta\Farmatec\obj\x86\Debug\Farmatec.ActualizarMarca.resources
+E:\FARMATEC 6IM14\ORIGINAL\Farmatec Beta\Farmatec\obj\x86\Debug\Farmatec.ActualizarEmpleado.resources
+E:\FARMATEC 6IM14\ORIGINAL\Farmatec Beta\Farmatec\obj\x86\Debug\Farmatec.BuscarEmpleado.resources
+E:\FARMATEC 6IM14\ORIGINAL\Farmatec Beta\Farmatec\obj\x86\Debug\Farmatec.ActualizarCliente.resources
+E:\FARMATEC 6IM14\ORIGINAL\Farmatec Beta\Farmatec\obj\x86\Debug\Farmatec.BuscarCliente.resources
+E:\FARMATEC 6IM14\ORIGINAL\Farmatec Beta\Farmatec\obj\x86\Debug\Farmatec.CadenaActualizar.resources
+E:\FARMATEC 6IM14\ORIGINAL\Farmatec Beta\Farmatec\obj\x86\Debug\Farmatec.ActualizarPedido.resources
+E:\FARMATEC 6IM14\ORIGINAL\Farmatec Beta\Farmatec\obj\x86\Debug\Farmatec.VistaMarca.resources
+E:\FARMATEC 6IM14\ORIGINAL\Farmatec Beta\Farmatec\obj\x86\Debug\Farmatec.VisualizarOfertas.resources
+E:\FARMATEC 6IM14\ORIGINAL\Farmatec Beta\Farmatec\obj\x86\Debug\Farmatec.Comprar.resources
+E:\FARMATEC 6IM14\ORIGINAL\Farmatec Beta\Farmatec\obj\x86\Debug\Farmatec.Inicio.resources
+E:\FARMATEC 6IM14\ORIGINAL\Farmatec Beta\Farmatec\obj\x86\Debug\Farmatec.LoginFarmatec.resources
+E:\FARMATEC 6IM14\ORIGINAL\Farmatec Beta\Farmatec\obj\x86\Debug\Farmatec.MenuCliente.resources
+E:\FARMATEC 6IM14\ORIGINAL\Farmatec Beta\Farmatec\obj\x86\Debug\Farmatec.MenuAdministrador.resources
+E:\FARMATEC 6IM14\ORIGINAL\Farmatec Beta\Farmatec\obj\x86\Debug\Farmatec.Resources.resources
+E:\FARMATEC 6IM14\ORIGINAL\Farmatec Beta\Farmatec\obj\x86\Debug\Farmatec.VisualizarFarmacias.resources
+E:\FARMATEC 6IM14\ORIGINAL\Farmatec Beta\Farmatec\obj\x86\Debug\Farmatec.Ofertas.resources
+E:\FARMATEC 6IM14\ORIGINAL\Farmatec Beta\Farmatec\obj\x86\Debug\Farmatec.vbproj.GenerateResource.Cache
+E:\FARMATEC 6IM14\ORIGINAL\Farmatec Beta\Farmatec\obj\x86\Debug\RdlCompile.cache
+E:\FARMATEC 6IM14\ORIGINAL\Farmatec Beta\Farmatec\obj\x86\Debug\RdlCompile.compiled

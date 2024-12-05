@@ -1,0 +1,413 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{BD62D0B1-862B-4742-BBB7-DDEFE6E7E6C3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Farmatec.My.MyApplication</StartupObject>
+    <RootNamespace>Farmatec</RootNamespace>
+    <AssemblyName>Farmatec</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Farmatec.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Farmatec.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FarmatecDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FarmatecDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="FarmatecDataSet.vb">
+      <DependentUpon>FarmatecDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="MenuAdministrador\Cadena\BuscarCadena.Designer.vb">
+      <DependentUpon>BuscarCadena.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MenuAdministrador\Cadena\BuscarCadena.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuAdministrador\Consultas\VistaPorCliente.Designer.vb">
+      <DependentUpon>VistaPorCliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MenuAdministrador\Consultas\VistaPorCliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuAdministrador\Consultas\VisualizarProducto.Designer.vb">
+      <DependentUpon>VisualizarProducto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MenuAdministrador\Consultas\VisualizarProducto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuAdministrador\Pedido\BuscarPedido.Designer.vb">
+      <DependentUpon>BuscarPedido.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MenuAdministrador\Pedido\BuscarPedido.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuAdministrador\Marca\BuscarMarca.Designer.vb">
+      <DependentUpon>BuscarMarca.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MenuAdministrador\Marca\BuscarMarca.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuAdministrador\Producto\ActualizarProducto.Designer.vb">
+      <DependentUpon>ActualizarProducto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MenuAdministrador\Producto\ActualizarProducto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuAdministrador\Producto\BuscarProducto.Designer.vb">
+      <DependentUpon>BuscarProducto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MenuAdministrador\Producto\BuscarProducto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuAdministrador\Marca\ActualizarMarca.Designer.vb">
+      <DependentUpon>ActualizarMarca.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MenuAdministrador\Marca\ActualizarMarca.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuAdministrador\Empleado\ActualizarEmpleado.Designer.vb">
+      <DependentUpon>ActualizarEmpleado.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MenuAdministrador\Empleado\ActualizarEmpleado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuAdministrador\Empleado\Buscar Empleado.Designer.vb">
+      <DependentUpon>Buscar Empleado.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MenuAdministrador\Empleado\Buscar Empleado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuAdministrador\Cliente\ActualizarCliente.Designer.vb">
+      <DependentUpon>ActualizarCliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MenuAdministrador\Cliente\ActualizarCliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuAdministrador\Cliente\BuscarCliente.Designer.vb">
+      <DependentUpon>BuscarCliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MenuAdministrador\Cliente\BuscarCliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuAdministrador\Cadena\CadenaActualizar.Designer.vb">
+      <DependentUpon>CadenaActualizar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MenuAdministrador\Cadena\CadenaActualizar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuAdministrador\Pedido\ActualizarPedido.Designer.vb">
+      <DependentUpon>ActualizarPedido.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MenuAdministrador\Pedido\ActualizarPedido.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuAdministrador\Consultas\VistaMarca.Designer.vb">
+      <DependentUpon>VistaMarca.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MenuAdministrador\Consultas\VistaMarca.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuAdministrador\Consultas\VisualizarOfertas.Designer.vb">
+      <DependentUpon>VisualizarOfertas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MenuAdministrador\Consultas\VisualizarOfertas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuUsuario\Comprar.Designer.vb">
+      <DependentUpon>Comprar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MenuUsuario\Comprar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuUsuario\Productos.Designer.vb">
+      <DependentUpon>Productos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MenuUsuario\Productos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Raiz\MenuAdministrador.Designer.vb">
+      <DependentUpon>MenuAdministrador.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Raiz\MenuAdministrador.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Raiz\MenuCliente.Designer.vb">
+      <DependentUpon>MenuCliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Raiz\MenuCliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Raiz\Inicio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Raiz\Inicio.Designer.vb">
+      <DependentUpon>Inicio.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Raiz\LoginFarmatec.Designer.vb">
+      <DependentUpon>LoginFarmatec.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Raiz\LoginFarmatec.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Raiz\Funcion.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="MenuAdministrador\Consultas\VisualizarFarmacias.Designer.vb">
+      <DependentUpon>VisualizarFarmacias.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MenuAdministrador\Consultas\VisualizarFarmacias.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuAdministrador\Consultas\VisualizarCadena.Designer.vb">
+      <DependentUpon>VisualizarCadena.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MenuAdministrador\Consultas\VisualizarCadena.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuUsuario\Ofertas.Designer.vb">
+      <DependentUpon>Ofertas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MenuUsuario\Ofertas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="MenuAdministrador\Cadena\BuscarCadena.resx">
+      <DependentUpon>BuscarCadena.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuAdministrador\Consultas\VistaPorCliente.resx">
+      <DependentUpon>VistaPorCliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuAdministrador\Consultas\VisualizarProducto.resx">
+      <DependentUpon>VisualizarProducto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuAdministrador\Consultas\VisualizarCadena.resx">
+      <DependentUpon>VisualizarCadena.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuAdministrador\Pedido\BuscarPedido.resx">
+      <DependentUpon>BuscarPedido.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuAdministrador\Marca\BuscarMarca.resx">
+      <DependentUpon>BuscarMarca.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuAdministrador\Producto\ActualizarProducto.resx">
+      <DependentUpon>ActualizarProducto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuAdministrador\Producto\BuscarProducto.resx">
+      <DependentUpon>BuscarProducto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuAdministrador\Marca\ActualizarMarca.resx">
+      <DependentUpon>ActualizarMarca.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuAdministrador\Empleado\ActualizarEmpleado.resx">
+      <DependentUpon>ActualizarEmpleado.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuAdministrador\Empleado\Buscar Empleado.resx">
+      <DependentUpon>Buscar Empleado.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuAdministrador\Cliente\ActualizarCliente.resx">
+      <DependentUpon>ActualizarCliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuAdministrador\Cliente\BuscarCliente.resx">
+      <DependentUpon>BuscarCliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuAdministrador\Cadena\CadenaActualizar.resx">
+      <DependentUpon>CadenaActualizar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuAdministrador\Pedido\ActualizarPedido.resx">
+      <DependentUpon>ActualizarPedido.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuAdministrador\Consultas\VistaMarca.resx">
+      <DependentUpon>VistaMarca.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuAdministrador\Consultas\VisualizarOfertas.resx">
+      <DependentUpon>VisualizarOfertas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuUsuario\Comprar.resx">
+      <DependentUpon>Comprar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuUsuario\Productos.resx">
+      <DependentUpon>Productos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Raiz\Inicio.resx">
+      <DependentUpon>Inicio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Raiz\LoginFarmatec.resx">
+      <DependentUpon>LoginFarmatec.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Raiz\MenuCliente.resx">
+      <DependentUpon>MenuCliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Raiz\MenuAdministrador.resx">
+      <DependentUpon>MenuAdministrador.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuAdministrador\Consultas\VisualizarFarmacias.resx">
+      <DependentUpon>VisualizarFarmacias.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuUsuario\Ofertas.resx">
+      <DependentUpon>Ofertas.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="FarmatecDataSet.xsc">
+      <DependentUpon>FarmatecDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="FarmatecDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>FarmatecDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="FarmatecDataSet.xss">
+      <DependentUpon>FarmatecDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fondo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FondoAlternativo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fondo Alternativo 2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blue Ligh Background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fondo1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\l-farmatec.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\l-farmatec_converted.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\l-farmatec_converted.fw.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\l-farmatec1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\l-farmatec_converted1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FondoLogin.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FondoLogin1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fondo2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FondoLogin2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Farmatec.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\refresh.ico" />
+    <None Include="Resources\icono_busqueda.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

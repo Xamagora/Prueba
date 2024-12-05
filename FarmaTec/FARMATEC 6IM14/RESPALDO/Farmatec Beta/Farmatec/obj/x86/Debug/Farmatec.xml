@@ -1,0 +1,252 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Farmatec
+</name>
+</assembly>
+<members>
+<member name="P:Farmatec.My.Resources.Resources.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member><member name="P:Farmatec.My.Resources.Resources.Culture">
+	<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member><member name="P:Farmatec.My.Resources.Resources.Blue_Ligh_Background">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Farmatec.My.Resources.Resources.Fondo">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Farmatec.My.Resources.Resources.Fondo_Alternativo_2">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Farmatec.My.Resources.Resources.Fondo1">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Farmatec.My.Resources.Resources.Fondo2">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Farmatec.My.Resources.Resources.FondoAlternativo">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Farmatec.My.Resources.Resources.FondoLogin">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Farmatec.My.Resources.Resources.FondoLogin1">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Farmatec.My.Resources.Resources.FondoLogin2">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Farmatec.My.Resources.Resources.icono_busqueda">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Farmatec.My.Resources.Resources.l_farmatec">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Farmatec.My.Resources.Resources.l_farmatec_converted">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Farmatec.My.Resources.Resources.l_farmatec_converted_fw">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Farmatec.My.Resources.Resources.l_farmatec_converted1">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Farmatec.My.Resources.Resources.l_farmatec1">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Farmatec.My.Resources.Resources.refresh">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Farmatec.My.Resources.Resources">
+	<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member><member name="T:Farmatec.FarmatecDataSet.AutorizaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Farmatec.FarmatecDataSet.CadenasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Farmatec.FarmatecDataSet.ClientesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Farmatec.FarmatecDataSet.Detalle_de_PedidoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Farmatec.FarmatecDataSet.EmpleadosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Farmatec.FarmatecDataSet.MarcasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Farmatec.FarmatecDataSet.PedidosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Farmatec.FarmatecDataSet.ProductosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Farmatec.FarmatecDataSet.AutorizaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Farmatec.FarmatecDataSet.CadenasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Farmatec.FarmatecDataSet.ClientesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Farmatec.FarmatecDataSet.Detalle_de_PedidoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Farmatec.FarmatecDataSet.EmpleadosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Farmatec.FarmatecDataSet.MarcasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Farmatec.FarmatecDataSet.PedidosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Farmatec.FarmatecDataSet.ProductosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Farmatec.FarmatecDataSet.AutorizaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Farmatec.FarmatecDataSet.CadenasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Farmatec.FarmatecDataSet.ClientesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Farmatec.FarmatecDataSet.Detalle_de_PedidoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Farmatec.FarmatecDataSet.EmpleadosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Farmatec.FarmatecDataSet.MarcasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Farmatec.FarmatecDataSet.PedidosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Farmatec.FarmatecDataSet.ProductosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Farmatec.FarmatecDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Farmatec.FarmatecDataSetTableAdapters.AutorizaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Farmatec.FarmatecDataSetTableAdapters.CadenasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Farmatec.FarmatecDataSetTableAdapters.ClientesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Farmatec.FarmatecDataSetTableAdapters.Detalle_de_PedidoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Farmatec.FarmatecDataSetTableAdapters.EmpleadosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Farmatec.FarmatecDataSetTableAdapters.MarcasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Farmatec.FarmatecDataSetTableAdapters.PedidosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Farmatec.FarmatecDataSetTableAdapters.ProductosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Farmatec.FarmatecDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Farmatec.FarmatecDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Farmatec.FarmatecDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Farmatec.FarmatecDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Farmatec.FarmatecDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Farmatec.FarmatecDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Farmatec.FarmatecDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Farmatec.FarmatecDataSetTableAdapters.TableAdapterManager.UpdateAll(Farmatec.FarmatecDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Farmatec.FarmatecDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Farmatec.FarmatecDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Farmatec.FarmatecDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

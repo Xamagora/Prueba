@@ -1,0 +1,105 @@
+body background="medicamentos2."
+	
+#contenedor {
+	text-align: left;
+	height: 600;
+	width: 700px;
+	background-color: #FFFFFF	;
+	margin: auto;
+	border: 4px solid gray;
+	}
+#encabezado {
+	color: #87CEEB;
+	height: 106px;
+	width: 700px;
+	}
+#cuerpo {
+	width:450px;
+	margin-left: 800px;
+	padding: 0px 0px 0px 0px;
+	background-color: #FFFFFF;
+	float:left;
+	}
+h1	{
+	font-size: 12pt;
+	}
+	#imagen {
+	align:right;
+	height: 106px;
+	width: 700px;
+	}
+#navabajo {
+	font-weight: bold;
+	}
+#navegador {
+	background: #87CEEB url(fondonav.jpg);
+	padding: 3px 10px 5px 10px;
+	border-top: 1px solid #cccccc
+	border-bottom: 1px solid #cccccc;
+	}
+#lateral {
+	width: 150px;
+	background-color: #E6E6FA;
+	border-bottom: 0.0px solid #cccccc;
+	border-left: 1px solid #ccccc;
+	float: left;
+	}
+#pie	{
+	border-top: dotted blue;
+	clear: both;
+	color: #cccccc;
+	text-align: right;
+	margin: 10px 10px 0px 10px;
+	padding-bottom: 10px;
+	}
+.titlat {
+	background-color: #68729E;
+	color:#ffffff;
+	font-size: 5pt;
+	text-transform: uppercase;
+	padding: 8px 7px 5px 8px;
+	font-weight: normal;
+	letter-spacing: 0.5px;
+	margin: 0px 0px 8px 0px;
+	}
+.cuerpolateral {
+	padding: 3px 3px 2px 3px;
+	}
+input {
+	font-size: 4pt;
+	}
+#fbuscar form {
+	margin-bottom: 0px;
+	margin-top: 0px;
+	}
+#campotexto {
+	float: left;
+	}
+#campotexto input {
+	width: 100px;
+	}
+#botonbuscar input {
+	border: 0px none;
+	}
+.radio {
+	clear: both;
+	}
+#otras ul {
+	magin: 5px 10px 0px 0px;
+	padding: 0px 0px 0px 4px;
+	list-style: none;
+	}
+#otras li {
+	padding-left: 0.3em;
+	background: transparent url(imagen.jpg) 0 2px no-repeat;
+	margin-bottom: 10px;
+	}
+#pie {
+	clear: both;
+	color: #cccccc;
+	text-align: right;
+	margin: 10px 10px 0px 10px;
+	padding-bottom: 10px;
+}
+a { padding-left: 8px; }
+a:hover { color: green}	
